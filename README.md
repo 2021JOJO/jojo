@@ -1,5 +1,6 @@
 # jojo
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+
 一、方案标题
 ==
     宠物喂食器
@@ -18,7 +19,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
   * 8、通过手机APP端完成信息查看，控制喂食。
 四、开发计划
 ------------
-  *1）3月13完成项目准备工作
- *2）3月12-23日嵌入式开发与云开发
- *3）3月24日前整体调试
- *4) 3月27号完成设计
+ * 1）3月13完成项目准备工作
+ * 2)3月12-23日嵌入式开发与云开发
+ * 3）3月24日前整体调试
+ * 4) 3月27号完成设计
