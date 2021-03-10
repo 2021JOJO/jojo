@@ -17,4 +17,5 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
   2）3月10-12号完成整体PCB设计
   3）3月12-20日嵌入式开发
   4）3月21号完成电路板的焊接
-  4）3月22日前整体调试。
+  5）3月22日前整体调试
+  6) 3月25号完成设计
